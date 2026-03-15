@@ -66,4 +66,4 @@ The project demonstrates practical skills in HTML parsing, data extraction, data
 
 - Exploratory Data Analysis (EDA)
 
-- Converting Web Data into Structured Datasets
+- Converting Web Data into Structured Datasets.
